@@ -1,4 +1,4 @@
-# vue-task2
+# Resume for work v0.1
 
 This template should help get you started developing with Vue 3 in Vite.
 
