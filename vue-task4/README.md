@@ -1,6 +1,6 @@
 # Resume for work v0.2a
-## Added:
-## Designed in the form of single-file components
+Added:
+Designed in the form of single-file components
 
 This template should help get you started developing with Vue 3 in Vite.
 
