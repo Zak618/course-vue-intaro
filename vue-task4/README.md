@@ -1,4 +1,9 @@
-# Resume for work v0.2a
+# Resume for work v0.3
+Added:
+Configured the build using vue-loader.
+Added Babel for compatibility with older browsers.
+
+Resume for work v0.2a:
 Added:
 Designed in the form of single-file components
 
