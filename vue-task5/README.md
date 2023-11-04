@@ -1,11 +1,8 @@
-# Resume for work v0.3
+# Resume for work v0.4
 Added:
-Configured the build using vue-loader.
-Added Babel for compatibility with older browsers.
-
-Resume for work v0.2a:
-Added:
-Designed in the form of single-file components
+The ability to select a city or university from the drop-down list. 
+Additional field for additional education.
+The ability to delete an education.
 
 This template should help get you started developing with Vue 3 in Vite.
 
